@@ -1,0 +1,6 @@
+{
+  "cargo": {
+    "allTargets": false,
+    "target": "thumbv7em-none-eabihf"
+  }
+}
