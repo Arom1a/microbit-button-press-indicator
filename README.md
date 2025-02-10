@@ -6,6 +6,10 @@ On the [micro:bit hardware details page](https://tech.microbit.org/hardware/), I
 
 So, why not write an async button press detection program as a practice?
 
+<p align="center">
+  <img src="img/demo.gif" alt="demo" style="height: 200px">
+</p>
+
 ## Requirement
 
 This project uses ***micro:bit v2***, not ***v1***.
